@@ -1,15 +1,7 @@
-/*
-=============== 
-Fonts
-===============
-*/
+/* Fonts*/
 @import url("https://fonts.googleapis.com/css?family=Open+Sans|Roboto:400,700&display=swap");
 
-/*
-=============== 
-Variables
-===============
-*/
+/* Variables*/
 
 :root {
   /* dark shades of primary color*/
@@ -191,7 +183,7 @@ main {
   text-align: center;
 }
 .container h2 {
-  background: var(--clr-black);
+  background: var(--clr-grey-1);
   color: var(--clr-white);
   padding: 1rem;
   border-radius: var(--radius);
